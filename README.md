@@ -2,7 +2,7 @@
 FIT/1BIT/Počítačové komunikace a sítě
 
 
-ZADANÍ
+<b>ZADANÍ</b>
 
 Úkolem je vytvořit program - klienta rozhraní OpenWeatherMap, který bude schopen prostřednictvím HTTP dotazů získávat vybrané informace z datového zdroje. Pro přístup je nutná bezplatná registrace a získání klíče, který se používá v dotazech pro autentizaci. Způsob používání OpenWatherMap API si nastudujte z on-line zdroje (odkaz níže).
 
@@ -19,7 +19,7 @@ V případě, že budete zjišťovat jak vypadá odpověď nezapomeňte dát cel
 curl "http://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=b498767252de12f92504d2cca9c3fdc1"
 
 
-PŘÍKLAD
+<b>PŘÍKLAD</b>
 
 $ make run api_key=b498767252de12f92574d288a9c4fdc2 city=Prague
 
